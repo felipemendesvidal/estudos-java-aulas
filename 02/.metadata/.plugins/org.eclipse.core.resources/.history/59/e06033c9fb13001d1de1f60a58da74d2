@@ -1,0 +1,21 @@
+package crud01;
+
+import java.io.InputStream;
+import java.util.Scanner;
+
+
+public class atividade_prs01 {
+
+	public static void main(String[] args) {
+		// entrada de dados do usuario
+		Scanner scanner = new Scanner (System.in);
+		System.out.println("informe o nome do arquivo:\n");
+		String caminhodoArquivo = scanner.nextLine();
+		
+		InputStream is = null;
+		Output
+		
+
+	}
+
+}
