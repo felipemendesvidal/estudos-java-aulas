@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\arquivos pessoais\estudos\faculdade descomplica\exercicios em java\02\.metadata\.plugins\org.eclipse.jdt.core
+1509799344.index
+923189348.index
+1865797976.index
